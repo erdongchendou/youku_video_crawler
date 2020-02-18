@@ -4,7 +4,7 @@
 > https://v.youku.com/v_show/id_XNDU0MjI3MTQwNA==.html;酷的剧会 剧能叨
 > https://v.youku.com/v_show/id_XMzU1NDQ1MzU5Mg==.html;娘亲舅大
 > ......
-3. 使用you-get爬取优酷视频，命令如下：
+3. 使用[you-get](https://github.com/soimort/you-get)爬取优酷视频，命令如下：
 	you-get -o 恐怖都市传闻 https://v.youku.com/v_show/id_XNDU0MTEyMTE1Mg==.html
 	
 	
